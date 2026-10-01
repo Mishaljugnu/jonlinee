@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@layer base {
+  html, body {
+    overflow-x: hidden;
+    max-width: 100vw;
+    width: 100%;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  /* Prevent text clipping and horizontal blowout */
+  *, ::before, ::after {
+    box-sizing: border-box;
+  }
+}

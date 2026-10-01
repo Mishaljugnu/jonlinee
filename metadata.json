@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix J Online Shopping",
+  "description": "Your trusted partner for sourcing products from China. Sourcing from Chinese suppliers, factories, and wholesale markets with worldwide delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
