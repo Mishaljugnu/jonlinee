@@ -7,10 +7,5 @@
       "destination": "/api"
     }
   ],
-  "$schema": "https://openapi.vercel.sh/vercel.json",
-  "functions": {
-    "api/index.ts": {
-      "runtime": "nodejs24.x"
-    }
-  }
+  "$schema": "https://openapi.vercel.sh/vercel.json"
 }
